@@ -6,7 +6,7 @@ This repository provides the configuration for adding additional Spark Workers t
 Before getting started, make sure you have the following:
 
 - Docker installed on the machines where you want to deploy the additional Spark Workers.
-- A running Spark cluster with Spark Master already set up.
+- A running Spark cluster with Spark Master already set up as in [The Lakehouse Procject](https://github.com/thorify/lakehouse)
 
 ## Getting Started
 To add the additional Spark Workers to your Personal Lakehouse, follow these steps:
